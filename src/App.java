@@ -1,7 +1,7 @@
-
-
 import java.io.IOException;
+import java.io.InputStream;
 import java.net.URI;
+import java.net.URL;
 import java.net.http.HttpClient;
 import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
@@ -14,7 +14,7 @@ public class App {
     public static final String ANSI_YELLOW = "\u001b[33m";
     //public static final String ANSI_YELLOW_BACKGROUND = "\u001b[43m";
 
-    public static void main(String[] args) throws IOException, InterruptedException {
+    public static void main(String[] args) throws Exception {
         // fazer uma conexão HTTP e buscar os top 250 filmes
 
         // a variavel abaixo irá retornar um emoji estrela
@@ -36,12 +36,19 @@ public class App {
 
 
         // exibir e manipular os dados
+        var gerador = new GeradorDeFigurinhas ();
         for (Map<String, String> Filme: ListaDeFilmes){
 
-            System.out.println(Filme.get("title"));
-            System.out.println(Filme.get("image"));
-            System.out.println(Filme.get("imDbRating"));
-            System.out.println(ANSI_YELLOW + emoji );
+
+            String urlImage = Filme.get("image");
+            String titulo = Filme.get("title");
+
+            InputStream inputStream = new URL(urlImage).openStream();
+            String nomeArquivo = titulo + ".png";
+
+            gerador.create(inputStream, nomeArquivo);
+
+            System.out.println(titulo);
             System.out.println();
         }
 
