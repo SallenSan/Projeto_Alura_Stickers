@@ -1,8 +1,8 @@
 import javax.imageio.ImageIO;
 import java.awt.*;
+import java.awt.geom.Rectangle2D;
 import java.awt.image.BufferedImage;
 import java.io.File;
-import java.io.IOException;
 import java.io.InputStream;
 
 public class GeradorDeFigurinhas {
@@ -12,7 +12,7 @@ public class GeradorDeFigurinhas {
 
         // leitura da imagem
         // InputStream inputStream =
-        //  new FileInputStream(new File("entrada/filme-maior.jpg"));
+        //  new FileInputStream(new File("input/image.jpg"));
         // InputStream inputStream =
         // new URL("https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@.jpg")
         // .openStream();
@@ -37,10 +37,17 @@ public class GeradorDeFigurinhas {
         graphics.setFont(fonte);
 
         // escrever uma frase na nova imagem
-        graphics.drawString("Topzera", 20, novaAltura - 100);
+        String texto = "Topzera";
+        FontMetrics fontMetrics = graphics.getFontMetrics();
+        Rectangle2D  retangulo = fontMetrics.getStringBounds(texto, graphics);
+        int larguraTexto = (int) retangulo.getWidth();
+        int posicaoTexto = (largura - larguraTexto) / 2;
+        graphics.drawString(texto, posicaoTexto, novaAltura - 100);
+
+        //graphics.drawString(texto, 100, novaAltura - 100);
 
         // escrever a nova imagem num arquivo
-        ImageIO.write(novaImagem, "png", new File(nomeArquivo));
+        ImageIO.write(novaImagem, "png", new File("nomeArquivo"));
 
 
     }

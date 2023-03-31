@@ -1,3 +1,4 @@
+import java.io.File;
 import java.io.IOException;
 import java.io.InputStream;
 import java.net.URI;
@@ -32,19 +33,23 @@ public class App {
 
         var parser = new JsonParser();
         List<Map<String, String>> ListaDeFilmes = parser.parse(body);
-        System.out.println(ListaDeFilmes.size());
+
+        var diretorio = new File("\\figurinhas");
+        diretorio.mkdir();
 
 
         // exibir e manipular os dados
         var gerador = new GeradorDeFigurinhas ();
-        for (Map<String, String> Filme: ListaDeFilmes){
+        // for (Map<String, String> Filme: ListaDeFilmes){
+        for (int i = 0; i < 5 ; i++) {
+            var filme = ListaDeFilmes.get(i);
 
+            String urlImage = filme.get("image");
+            String titulo = filme.get("title");
 
-            String urlImage = Filme.get("image");
-            String titulo = Filme.get("title");
 
             InputStream inputStream = new URL(urlImage).openStream();
-            String nomeArquivo = titulo + ".png";
+            String nomeArquivo = "figurinhas/" + titulo + ".png";
 
             gerador.create(inputStream, nomeArquivo);
 

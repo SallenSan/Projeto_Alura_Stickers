@@ -4,9 +4,106 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fd0cd1e-4048-49f6-b785-fa6a4b68a1a8" name="Changes" comment="">
+    <list default="true" id="3fd0cd1e-4048-49f6-b785-fa6a4b68a1a8" name="Changes" comment="atualização">
+      <change afterPath="$PROJECT_DIR$/figurinhas/65.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/A Good Person.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/A Man Called Otto.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Aftersun.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Air.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/All Quiet on the Western Front.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Ant-Man and the Wasp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Avatar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Babylon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Black Adam.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Black Panther" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Boston Strangler.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Bullet Train.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Champions.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Children of the Corn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Chor Nikal Ke Bhaga.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Cocaine Bear.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Creed III.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Creed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Don't Worry Darling.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Dragged Across Concrete.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Dungeons &amp; Dragons" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Elvis.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Everything Everywhere All at Once.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Evil Dead Rise.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Fall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Glass Onion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Good Will Hunting.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Goodfellas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Guillermo del Toro's Pinocchio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Harry Potter and the Sorcerer's Stone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/I See You.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Infinity Pool.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Inside.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Interstellar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Jesus Revolution.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/John Wick" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/John Wick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Joy Ride.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Killers of the Flower Moon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Knock at the Cabin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Living.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Luther" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/M3GAN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Missing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Money Shot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Noise.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Nope.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Once Upon a Time in Hollywood.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Operation Fortune" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Oppenheimer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Pathaan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Pearl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Plane.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Pulp Fiction.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Puss in Boots" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/RRR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Renfield.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Riddick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Ruby Gillman, Teenage Kraken.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Scream 4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Scream VI.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Scream.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Shazam! Fury of the Gods.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Shazam!.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Smile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Supercell.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/The Banshees of Inisherin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/The Batman.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/The Dark Knight.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/The Fabelmans.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/The Flash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/The Godfather.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/The Goonies.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/The Help.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/The Hunchback of Notre Dame.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/The Hunger Games.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/The Little Mermaid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/The Magician's Elephant.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/The Magnificent Seven.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/The Menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/The Pope's Exorcist.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/The Shawshank Redemption.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/The Super Mario Bros. Movie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/The Unbearable Weight of Massive Talent.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/The Whale.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Titanic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Top Gun" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Top Gun.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Triangle of Sadness.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Tár.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/We Have a Ghost.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Where the Crawdads Sing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Winnie the Pooh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/Women Talking.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/X.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figurinhas/You Hurt My Feelings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/figurinhas" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/movie.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/GeradorDeFigurinhas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeradorDeFigurinhas.java" afterDir="false" />
     </list>
@@ -25,22 +122,42 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="eb9293a5-f9e9-48b2-ba20-9155b6659982" />
+        <option name="url" value="git@github.com:SallenSan/Projeto_Alura_Stickers.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="autoscrollToSource" value="true" />
+  </component>
   <component name="ProjectId" id="2Nc6BgYgJw5iGgIoSntpSztNWaq" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/projects/alura-stickers&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/projects/alura-stickers",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="App" />
@@ -64,6 +181,23 @@
       <option name="presentableId" value="Default" />
       <updated>1679950898656</updated>
     </task>
+    <task id="LOCAL-00001" summary="atualização">
+      <created>1680133212897</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680133212898</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="atualização" />
+    <option name="LAST_COMMIT_MESSAGE" value="atualização" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
